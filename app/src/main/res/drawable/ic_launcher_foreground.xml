@@ -1,0 +1,84 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center group -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Symmetrical 8-fold star mandala -->
+        <!-- Diamond petals rotated around center -->
+        <path
+            android:fillColor="#FF2A85"
+            android:pathData="M54,26 L58,46 L54,54 L50,46 Z" />
+        <path
+            android:fillColor="#FF2A85"
+            android:pathData="M54,82 L58,62 L54,54 L50,62 Z" />
+        <path
+            android:fillColor="#FF2A85"
+            android:pathData="M26,54 L46,58 L54,54 L46,50 Z" />
+        <path
+            android:fillColor="#FF2A85"
+            android:pathData="M82,54 L62,58 L54,54 L62,50 Z" />
+
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M34.2,34.2 L48.3,42.7 L54,54 L42.7,48.3 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M73.8,73.8 L59.7,65.3 L54,54 L65.3,59.7 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M73.8,34.2 L65.3,48.3 L54,54 L59.7,42.7 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M34.2,73.8 L42.7,59.7 L54,54 L48.3,65.3 Z" />
+
+        <!-- Secondary crystal facets -->
+        <path
+            android:fillColor="#FFD600"
+            android:pathData="M54,36 L60,54 L54,50 L48,54 Z" />
+        <path
+            android:fillColor="#FFD600"
+            android:pathData="M54,72 L60,54 L54,58 L48,54 Z" />
+        <path
+            android:fillColor="#FFD600"
+            android:pathData="M36,54 L54,60 L50,54 L54,48 Z" />
+        <path
+            android:fillColor="#FFD600"
+            android:pathData="M72,54 L54,60 L58,54 L54,48 Z" />
+
+        <path
+            android:fillColor="#B388FF"
+            android:pathData="M41.3,41.3 L54,49 L49,54 Z" />
+        <path
+            android:fillColor="#B388FF"
+            android:pathData="M66.7,66.7 L54,59 L59,54 Z" />
+        <path
+            android:fillColor="#B388FF"
+            android:pathData="M66.7,41.3 L54,49 L59,54 Z" />
+        <path
+            android:fillColor="#B388FF"
+            android:pathData="M41.3,66.7 L54,59 L49,54 Z" />
+
+        <!-- Outer crystal points ring -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M54,20 L56,26 L52,26 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M54,88 L56,82 L52,82 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M20,54 L26,56 L26,52 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M88,54 L82,56 L82,52 Z" />
+
+        <!-- Center gem -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,49 L59,54 L54,59 L49,54 Z" />
+    </group>
+</vector>
